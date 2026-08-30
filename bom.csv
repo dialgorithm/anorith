@@ -1,1 +1,19 @@
 component, qty, cost, why, source
+4 layer pcb, 5, $29, pcb fabrication, https://robu.in/product/online-pcb-manufacturing-service/
+10uF 1206 Resistor, 26, $5, 13 per pcb, https://robu.in/product/grm319r61e106ka12d-murata-electronics-25v-10uf-x5r-%c2%b110-1206-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/
+27pF 1206 Resistor, 4, $1, 2 per pcb, https://robu.in/product/tcc1206cog270j102et-cctc-smt-ceramic-capacitors-1206-cog-270j27pf%c2%b15-0-rated-voltage1000v-thickness1-00mm-tape/
+100uF 1206 Resistor, 4, $2.7, 2 per pcb, https://robu.in/product/grm31cr61a107mea8l-murata-electronics-10v-100uf-x5r-%c2%b120-1206-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/
+1206 package LED, 6, $1, 3 per pcb, https://robu.in/product/xl-3216ubc-fb-xinglight-reverse-mount-blue-120-1206-led-indication-discrete-rohs/
+B5819W Schottky Diode, 4, $1, 2 per pcb, https://robu.in/product/b5819w-mdd-40v-independent-900mv3a-1a-sod-123-schottky-diodes-rohs/
+2.54MM 2x20 Pin Female Double Row Header, 2, $3.2, 1 per pcb, https://robu.in/product/2-54mm-2x20-pin-female-double-row-straight-long-header-strip/
+GCT USB C receptacle, 2, $6.3, connection, https://www.lioncircuits.com/parts/USB4105GFA120
+1k 1206 Resistor, 6, $1.5, 3 per pcb, https://robu.in/product/1206w4f1001t5e-uniohm-royal-ohm-250mw-thick-film-resistors-200v-%c2%b11-1k%cf%89-1206-chip-resistor-surface-mount-rohs/
+10k 1206 Resistor, 8, $1.3, 4 per pcb, https://robu.in/product/rc1206fr-0710kl-yageo-res-thick-film-1206-10k-ohm-1-0-25w1-4w-%c2%b1100ppm-c-pad-smd-t-r/
+27Ω 1206 Resistor, 4, $1.5, 2 per pcb, https://robu.in/product/rt1206fre0727rl-yageo-250mw-thin-film-resistor-200v-%c2%b150ppm-%e2%84%83-%c2%b11-27%cf%89-1206-chip-resistor-surface-mount-rohs/
+5.1k 1206 Resistor, 4, $1.7, 2 per pcb, https://robu.in/product/1206w4f5101t5e-uniohm-royal-ohm-250mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83-%c2%b11-5-1k%cf%89-1206-chip-resistor-surface-mount-rohs/
+Raspberry Pi RP2040 IC, 2, $3.2, brain, https://robu.in/product/raspberry-pi-rp2040/
+6mm Tactile switch, 4, $1, 2 per pcb, https://robu.in/product/tsd003a06026b-bzcn-6mm-6mm-50ma-round-button-standing-paste-6mm-12v-smd-tactile-switches-rohs/
+AMS1117-3.3 LDO Regulator, 2, $1, low drop regulation, https://robu.in/product/ams1117-3-3-kexin-1a-fixed-3-3v-positive-electrode-18v-sot-223-4-voltage-regulators-linear-low-drop-out-ldo-regulators-rohs/
+W25Q32JVSSIQ Winbond Memory IC, 2, $3.2, memory, https://robu.in/product/w25q32jvssiq-winbond/
+12MHz SMD Crystal Oscillator, 2, $4.2, oscillate, https://www.amazon.in/12MHz-Crystal-Oscillator-6pcs-SMD3225-4P/dp/B0G7JN6FLK
+Total, -, $75, -, -
