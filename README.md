@@ -24,9 +24,9 @@ the board is centered on the **rp2040**, with a **w25q16jvss** QSPI flash chip p
 
 ## schematics + pcb design
 
-| schematic                           | pcb                    |
-| ----------------------------------- | ---------------------- |
-| ![schematic](assets/schematics.png) | ![pcb](assets/pcb.png) |
+| schematic                          | pcb                    |
+| ---------------------------------- | ---------------------- |
+| ![schematic](assets/schematic.png) | ![pcb](assets/pcb.png) |
 
 | first layer                         | second layer                  |
 | ----------------------------------- | ----------------------------- |
